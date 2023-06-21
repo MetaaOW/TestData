@@ -196,14 +196,11 @@
                 }
             ]
         },
-
- 
-    
         "id": 1,
         "category": "Swift2",
         "content": {
-            "id": 1,
-            "image": "swift",
+            "id": 0,
+            "image": "rune2-urus",
             "time": "31 hours",
             "description": "Understand the fundamentals of the Swift programming language.",
             "lessons": [
@@ -280,7 +277,7 @@
             ]
         },
         "test22": {
-            "id": 1,
+            "id": 0,
             "image": "testSwift",
             "time": "30 minutes",
             "description": "Gear up and put your Swift knowledge to the test.",
