@@ -195,11 +195,15 @@
                     ]
                 }
             ]
-        },
-        "id": 1,
+        }
+    }
+],
+[
+    {
+        "id": 0,
         "category": "Swift2",
         "content": {
-            "id": 1,
+            "id": 0,
             "image": "rune2-urus",
             "time": "31 hours",
             "description": "Understand the fundamentals of the Swift programming language.",
