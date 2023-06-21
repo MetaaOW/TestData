@@ -154,7 +154,7 @@
 	"id": 2,
 	"category": "SwiftUITest",
 	"content": {
-		"id": 0,
+		"id": 1,
 		"image": "rune2-urus",
 		"time": "200 hours",
 		"description": "Discover the innovative and simple way to build apps on Apple platforms, especially iOS.",
@@ -223,8 +223,8 @@
 			}
 		]
 	},
-	"test": {
-		"id": 0,
+	"test2": {
+		"id": 1,
 		"image": "rune2-urus",
 		"time": "30 minutes",
 		"description": "Test your knowledge of SwiftUI.",
