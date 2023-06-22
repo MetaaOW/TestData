@@ -195,7 +195,7 @@
                     ]
                 }
             ]
-        },
+        };
         "id": 2,
         "category": "Swift2",
         "content": {
@@ -277,7 +277,7 @@
             ]
         },
         "test": {
-            "id": 0,
+            "id": 1,
             "image": "rune2up-ansuz",
             "time": "30 minutes",
             "description": "Gear up and put your Swift knowledge to the test.",
