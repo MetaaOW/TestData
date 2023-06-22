@@ -3,13 +3,30 @@
 	"category": "Swift1",
 	"content": {
 		"id": 0,
-		"image": "rune1",
+		"image": "rune-fehu",
 		"time": "3 hours",
-		"description": "Understand the fundamentals of the Swift programming language.",
+		"description": "Understang language.",
 		"lessons": [{
 			"id": 0,
-			"title": "Constants and Variables",
-			"video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+			"title": "App Structure and Behaviour",
+			"video": "SwiftUI%20trimmed.mp4",
+			"duration": "15 minutes",
+			"explanation": "<p>Dl. Scenur app, andtem manages.</p>"
+		}]
+	},
+	"test": {
+		"id": 0,
+		"image": "swiftUI",
+		"time": "30 minutes",
+		"description": "Test your knowledge of SwiftUI.",
+		"questions": [{
+			"id": 0,
+			"content": "<p>Every SwiftUIview hierarchy.</p>",
+			"correctIndex": 1,
+			"answers": [
+				"true",
+				"false"
+			]
 		}]
 	},
 	"id1": 1,
@@ -21,8 +38,25 @@
 		"description": "Understand the fundamentals of the Swift programming language.",
 		"lessons": [{
 			"id": 1,
-			"title": "Constants and Variables",
-			"video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
+			"title": "App Structure and Behaviour",
+			"video": "SwiftUI%20trimmed.mp4",
+			"duration": "15 minutes",
+			"explanation": "<p>Declstem manages.</p>"
+		}]
+	},
+	"test1": {
+		"id": 0,
+		"image": "swiftUI",
+		"time": "30 minutes",
+		"description": "Test your knowledge of SwiftUI.",
+		"questions": [{
+			"id": 0,
+			"content": "<p>Every SwiftUI app has e hierarchy.</p>",
+			"correctIndex": 1,
+			"answers": [
+				"true",
+				"false"
+			]
 		}]
 	}
 }]
