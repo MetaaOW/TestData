@@ -3,11 +3,15 @@
 	"category": "Swift1",
 	"content": {
 		"id": 0,
+		"image": "rune1",
 		"image": "rune-fehu",
 		"time": "3 hours",
+		"description": "Understand the fundamentals of the Swift programming language.",
 		"description": "Understang language.",
 		"lessons": [{
 			"id": 0,
+			"title": "Constants and Variables",
+			"video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
 			"title": "App Structure and Behaviour",
 			"video": "SwiftUI%20trimmed.mp4",
 			"duration": "15 minutes",
@@ -29,15 +33,17 @@
 			]
 		}]
 	},
-	"id1": 0,
+	"id1": 1,
 	"category1": "Swift2",
 	"content1": {
-		"id": 0,
+		"id": 1,
 		"image": "rune2",
 		"time": "31 hours",
 		"description": "Understand the fundamentals of the Swift programming language.",
 		"lessons": [{
-			"id": 0,
+			"id": 1,
+			"title": "Constants and Variables",
+			"video": "Learn%20Swift%20for%20Beginners%20Lesson%201%20-%20Variables%20(Swift%205%20compatible)-2OZ07fklur8.mp4"
 			"title": "App Structure and Behaviour",
 			"video": "SwiftUI%20trimmed.mp4",
 			"duration": "15 minutes",
